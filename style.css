@@ -1,0 +1,23 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #fceb9a;
+}
+
+.container {
+    background-color: #fcbc04;
+    border-radius: 8px;
+    max-width: 80%;  
+}
+
+.border-custom {
+    border-radius: 8px;
+    width: 50%;
+}
+
+.alert-danger {
+    border: 1px solid #f8d7da;
+}
+
+.btn-primary {
+    padding: 5px 20px;
+}
