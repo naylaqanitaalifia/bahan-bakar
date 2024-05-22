@@ -49,7 +49,6 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") { 
         $ppn = 10;
-        // $jenis = $_POST["jenis"];
         $jenis = isset($_POST["jenis"]) ? $_POST["jenis"] : "";
         $jumlah = $_POST["jumlah"];
 
